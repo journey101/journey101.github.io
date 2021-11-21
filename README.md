@@ -1,1 +1,1 @@
-# journey101.github.io
+Journey101's blog
