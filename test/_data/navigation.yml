@@ -1,13 +1,9 @@
 # main links links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://journey101.github.io/blog/about/ # 내 소개, 프로필 간략히 넣기
   - title: "Posts"
-    url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: /archive/
   - title: "Extra Menu Item 1"
     url: /
   - title: "Extra Menu Item 2"

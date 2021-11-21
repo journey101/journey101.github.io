@@ -1,14 +1,17 @@
 ---
-layout: post
-read_time: true
-show_date: true
 title: Ecommerce-Recommendation-System-with-DeepLearning-YoutubeAlgorithm
-date:   2021-07-07 00:00:00 -0600
+
+last_modified_at: 2021-07-07T09:45:06-05:00
+
 description: Ecommerce-Recommendation-System-Developing-project-with-DeepLearning-Youtube-Recommendation-algorithm.
-tags: [Machine Learning, Recommendation, Deep-Neural networks]
+
+tags:
+[Machine Learning, Recommendation, Deep-Neural networks]
+
 author: Hyeonjae Kim
+
 github:  journey101/Ecommerce-Recommendation-System-with-DeepLearning-YoutubeAlgorithm
-mathjax: yes
+
 ---
 
 ## Ecommerce-Recommendation-System-with-DeepLearning-YoutubeAlgorithm
@@ -81,7 +84,7 @@ Ecommerce-Recommendation System Developing project with 'DeepLearning-Youtube-Re
 
 
 ```
-[ ranking_1안의 유저별 dcg, idcg, ndcg ] 
+[ ranking_1안의 유저별 dcg, idcg, ndcg ]
                    dcg      idcg      ndcg
 test-user1  2.130930  3.953465  0.539003
 test-user2  0.630930  3.953465  0.159589
@@ -90,7 +93,7 @@ test-user4  1.930677  3.953465  0.488351
 test-user5  1.317529  3.953465  0.333259
 -------------------
 
-[ ranking_1안의 dcg, idcg, ndcg평균 ] 
+[ ranking_1안의 dcg, idcg, ndcg평균 ]
 dcg     1.628199
 idcg    3.953465
 ndcg    0.411841
@@ -99,7 +102,7 @@ ndcg    0.411841
 
 
 ```
-[ ranking_2안의 유저별 dcg, idcg, ndcg ] 
+[ ranking_2안의 유저별 dcg, idcg, ndcg ]
                    dcg      idcg      ndcg
 test-user1  2.448459  3.953465  0.619320
 test-user2  1.000000  3.953465  0.252943
@@ -108,7 +111,7 @@ test-user4  1.130930  3.953465  0.286060
 test-user5  1.317529  3.953465  0.333259
 -------------------
 
-[ ranking_2안의 dcg, idcg, ndcg평균 ] 
+[ ranking_2안의 dcg, idcg, ndcg평균 ]
 dcg     1.450625
 idcg    3.953465
 ndcg    0.366925
