@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: https://journey101.github.io/blog/home
-   - title: "About"
-     url: https://journey101.github.io/blog/about
-   - title: "Posts"
-     url: /archive/
-   - title: "Study"
-     url: /study/
+  title: Home
+  url: "https://journey101.github.io/blog/home"
+  title: About
+  url: "https://journey101.github.io/blog/about"
+  title: Posts
+  url: "https://journey101.github.io/archive/"
+  title: Study
+  url: "http://journey101.github.io/study/"

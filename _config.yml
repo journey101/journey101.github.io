@@ -16,11 +16,12 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "데이터로"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyeonjae Kim"
-description              : "About Data&Machine Learning"
+subtitle                 : "About DataAnalysis/Engineering/Growth/Statistics/MachineLearning"
+
+name                     : "Hyeonjae Kim(journey101)"
+description              : 
 url                      : "https://journey101.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g.
 repository               : "journey101/journey101.github.io" # GitHub username/repo-name e.g.
@@ -104,29 +105,30 @@ analytics:
 author:
   name             : "Hyeonjae Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "DataAnalystEngineer"
+
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:hyeonjae.gim@email.com"
+      url: "mailto:hyeonjae.gim@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/journey101"
+      url: "https://github.com/journey101"
     - label: "Linkedin"
       icon: "fab fa-fw fa-Linkedin"
-      # url: "https://www.linkedin.com/in/hyeonjae-kim-284100108/"
+      url: "https://www.linkedin.com/in/hyeonjae-kim-284100108/"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/journey101"
+      url: "https://github.com/journey101"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/hyeonjae-kim-284100108/"
+      url: "https://www.linkedin.com/in/hyeonjae-kim-284100108/"
 
 
 # Reading Files
